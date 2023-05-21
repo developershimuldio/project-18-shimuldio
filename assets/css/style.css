@@ -1,0 +1,36 @@
+nav img{
+    width: 40px;
+    height: 40px;
+}
+.navbar-nav .nav-link{
+    padding-left: 20px;
+}
+.carousel img{
+    max-height: 90vh;
+}
+.card img{
+    min-height: 60%;
+}
+#about-info img{
+    width: 350px;
+    height: 350px;
+}
+#gallery img{
+    min-height: 300px;
+}
+#authors img{
+    margin-top: -80px;
+    width: 130px;
+    height: 130px;
+}
+#authors .card:hover{
+    background: rgba(3, 132, 3, 0.639);
+    color: #fff;
+}
+
+.fa-brands{
+    font-size: 25px;
+}
+#authors .card:hover .fa-brands{
+    color: #fff;
+}
